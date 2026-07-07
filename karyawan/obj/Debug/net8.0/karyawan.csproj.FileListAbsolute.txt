@@ -12,3 +12,4 @@ C:\C#\karyawan\karyawan\obj\Debug\net8.0\refint\karyawan.dll
 C:\C#\karyawan\karyawan\obj\Debug\net8.0\karyawan.pdb
 C:\C#\karyawan\karyawan\obj\Debug\net8.0\karyawan.genruntimeconfig.cache
 C:\C#\karyawan\karyawan\obj\Debug\net8.0\ref\karyawan.dll
+C:\C#\karyawan\karyawan\obj\Debug\net8.0\karyawan.sourcelink.json

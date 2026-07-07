@@ -78,7 +78,7 @@ class Program
     {
         List<Karyawan> daftarKaryawan = new List<Karyawan>
         {
-            new KaryawanTetap("Arjun ", 8000000),
+            new KaryawanTetap("Arjun", 8000000),
             new KaryawanKontrak("Heri", 6),
             new Freelancer("Yanto", "Informatika")
         };
@@ -87,7 +87,9 @@ class Program
 
         foreach (Karyawan k in daftarKaryawan)
         {
-            Console.WriteLine($"[Jabatan: {k.Jabatan}] Nama: {k.Nama}");
+            // k bertipe deklarasi "Karyawan", tapi objek asli di heap bisa berbeda-beda.
+            // GetType().Name membuktikan tipe objek yang sebenarnya ditentukan saat runtime.
+            Console.WriteLine($"[Jabatan: {k.Jabatan}] Nama: {k.Nama} | Tipe objek runtime: {k.GetType().Name}");
             k.Kerja(); // dispatch method ditentukan saat runtime, sesuai objek asli di heap
             Console.WriteLine(new string('-', 45));
         }
