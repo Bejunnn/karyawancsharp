@@ -1,0 +1,14 @@
+C:\C#\karyawan\karyawan\bin\Debug\net8.0\karyawan.exe
+C:\C#\karyawan\karyawan\bin\Debug\net8.0\karyawan.deps.json
+C:\C#\karyawan\karyawan\bin\Debug\net8.0\karyawan.runtimeconfig.json
+C:\C#\karyawan\karyawan\bin\Debug\net8.0\karyawan.dll
+C:\C#\karyawan\karyawan\bin\Debug\net8.0\karyawan.pdb
+C:\C#\karyawan\karyawan\obj\Debug\net8.0\karyawan.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\karyawan\karyawan\obj\Debug\net8.0\karyawan.AssemblyInfoInputs.cache
+C:\C#\karyawan\karyawan\obj\Debug\net8.0\karyawan.AssemblyInfo.cs
+C:\C#\karyawan\karyawan\obj\Debug\net8.0\karyawan.csproj.CoreCompileInputs.cache
+C:\C#\karyawan\karyawan\obj\Debug\net8.0\karyawan.dll
+C:\C#\karyawan\karyawan\obj\Debug\net8.0\refint\karyawan.dll
+C:\C#\karyawan\karyawan\obj\Debug\net8.0\karyawan.pdb
+C:\C#\karyawan\karyawan\obj\Debug\net8.0\karyawan.genruntimeconfig.cache
+C:\C#\karyawan\karyawan\obj\Debug\net8.0\ref\karyawan.dll
